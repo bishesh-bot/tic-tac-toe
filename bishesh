@@ -172,13 +172,6 @@
             animation-delay: 2s;
         }
 
-        .bubble:nth-child(4) {
-            width: 80px;
-            height: 80px;
-            left: 50%;
-            animation-duration: 11s;
-            animation-delay: 0s;
-        }
 
         .bubble:nth-child(5) {
             width: 35px;
@@ -452,3 +445,11 @@
     </script>
 </body>
 </html>
+
+        .bubble:nth-child(4) {
+            width: 80px;
+            height: 80px;
+            left: 50%;
+            animation-duration: 11s;
+            animation-delay: 0s;
+        }
